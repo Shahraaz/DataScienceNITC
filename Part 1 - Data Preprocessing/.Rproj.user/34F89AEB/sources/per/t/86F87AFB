@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1567427587821.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1951166676",
+    "id" : "86F87AFB",
+    "lastKnownWriteTime" : 1567435927,
+    "last_content_update" : 1567435927497,
+    "path" : "C:/Users/Sheraaz/Desktop/Syllabus/DataScience/Machine Learning A-Z Template Folder/Part 1 - Data Preprocessing/data_preprocessing_template.R",
+    "project_path" : "data_preprocessing_template.R",
+    "properties" : {
+        "cursorPosition" : "23,28",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
