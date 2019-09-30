@@ -1,6 +1,0 @@
-1-3 chapters from Open Intro for statistics
-1-2 chapter from Doing Data Science 
-
-basic Data handling using R
-Maths for Data science - Statistics, Probability - probability distributions
-Data Science process, Exploratory Data Analysis, Data Science Process
